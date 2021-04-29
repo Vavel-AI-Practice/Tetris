@@ -1,0 +1,14 @@
+.main {
+    background     : black;
+    height         : 100vh;
+    display        : flex;
+    justify-content: center;
+}
+
+.content {
+    margin-left    : 100px;
+    display        : flex;
+    flex-direction : column;
+    border         : 1px solid red;
+    justify-content: space-evenly;
+}
